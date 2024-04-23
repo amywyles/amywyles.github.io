@@ -1,9 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
  
-  "title": {"text": "GDP Per Capita"},
+  "title": {"text": "GDP Per Capita",
+  "fontSize": 35,
+  "fontStyle":"italic"},
  
-  "width": 500,
+  "width": 400,
   "height": 300,
    
   "data": {
@@ -18,7 +20,8 @@
  
   "mark": {
     "type": "bar",
-    "color": "cadetblue"},
+    "color": "darkkhaki"
+    },
  
   "encoding": {
     "x": {"field": "Country"},  

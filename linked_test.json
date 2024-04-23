@@ -2,19 +2,24 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
   "title": {
-    "text":"Real GDP Per Capita",
-    "subtitle": ["Current International USD, PPP", "Source: World Bank"]},
+    "text":"Amy's graph British GDP Growth",
+    "subtitle": ["QoQ4 % Growth", "Source: ONS via ECO-API"],
+    "fontSize": 35,
+    "color": "chartreuse"
+  },
 
-  "width": 600,
+  "width": 400,
   "height": 300,
- 
-  "data": {"url": "https://raw.githubusercontent.com/EconomicsObservatory/courses/main/1/s1_example_data/chart2_GDP_pc_6_countries.csv"},
- 
-  "mark": "circle",
- 
+
+  "data": {"url": "https://api.economicsobservatory.com/gbr/grow?vega"},
+
+  "mark": {
+    "type": "line",
+    "color": "crimson"
+  },
+
   "encoding": {
-    "x": {"field": "Year", "type": "temporal", "title":null},
-    "y": {"field": "GDP pc", "type": "quantitative", "title":null},
-    "color": {"field": "Country Name", "type": "nominal"}
+    "x": {"field": "date", "type": "temporal"},
+    "y": {"field": "value", "type": "quantitative", "title":null}
   }
 }

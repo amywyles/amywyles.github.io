@@ -26,7 +26,17 @@ body { /* We can style any HTML element by using its name - here we're styling t
   
   
   /* Headings */
-  h1, h2, h3, h4, h5, h6 {
+
+  h1 {
+    color: navy;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    /* Keep the headings on their own line */
+    clear: both;
+  }
+
+  h2, h3, h4, h5, h6 {
     color: darkolivegreen;
     margin-top: 24px;
     margin-bottom: 16px;
@@ -78,7 +88,7 @@ section figure {
   
   /* Links */
   a {
-    color: #065f46;
+    color: purple;
     text-decoration: none;
   }
   

@@ -1,0 +1,180 @@
+﻿ITL.region.code,ITL.region.name,GVA,GDP,GVA_perc
+TLC11,Hartlepool and Stockton-on-Tees,31,7777,0.4
+TLC12,South Teesside,86,5779,1.49
+TLC13,Darlington,26,2790,0.93
+TLC14,Durham CC,116,11018,1.05
+TLC21,Northumberland,266,6557,4.06
+TLC22,Tyneside,31,23482,0.13
+TLC23,Sunderland,7,7642,0.09
+TLD11,West Cumbria,119,5651,2.11
+TLD12,East Cumbria,298,8064,3.7
+TLD33,Manchester,5,28224,0.02
+TLD34,Greater Manchester South West,18,20029,0.09
+TLD35,Greater Manchester South East,17,12233,0.14
+TLD36,Greater Manchester North West,19,13779,0.14
+TLD37,Greater Manchester North East,12,13438,0.09
+TLD41,Blackburn with Darwen,3,3852,0.08
+TLD42,Blackpool,0,3116,0
+TLD44,Lancaster and Wyre,70,5459,1.28
+TLD45,Mid Lancashire,105,14467,0.73
+TLD46,East Lancashire,12,7383,0.16
+TLD47,Chorley and West Lancashire,78,5653,1.38
+TLD61,Warrington,6,9337,0.06
+TLD62,Cheshire East,133,16078,0.83
+TLD63,Cheshire West and Chester,114,13062,0.87
+TLD71,East Merseyside,25,12504,0.2
+TLD72,Liverpool,1,15911,0.01
+TLD73,Sefton,10,5431,0.18
+TLD74,Wirral,6,6632,0.09
+TLE11,"Kingston upon Hull, City of",1,6879,0.01
+TLE12,East Riding of Yorkshire,379,8603,4.41
+TLE13,North and North East Lincolnshire,110,10073,1.09
+TLE21,York,21,6862,0.31
+TLE22,North Yorkshire CC,649,18241,3.56
+TLE31,"Barnsley, Doncaster and Rotherham",83,18113,0.46
+TLE32,Sheffield,13,15415,0.08
+TLE41,Bradford,15,11912,0.13
+TLE42,Leeds,59,30553,0.19
+TLE44,Calderdale and Kirklees,53,15371,0.34
+TLE45,Wakefield,41,9771,0.42
+TLF11,Derby,21,8363,0.25
+TLF12,East Derbyshire,39,7619,0.51
+TLF13,South and West Derbyshire,234,13058,1.79
+TLF14,Nottingham,0,11818,0
+TLF15,North Nottinghamshire,162,11605,1.4
+TLF16,South Nottinghamshire,66,8302,0.79
+TLF21,Leicester,3,10193,0.03
+TLF22,Leicestershire CC and Rutland,477,21300,2.24
+TLF24,West Northamptonshire,91,14664,0.62
+TLF25,North Northamptonshire,73,8482,0.86
+TLF30,Lincolnshire CC,1078,18824,5.73
+TLG11,"Herefordshire, County of",349,4729,7.38
+TLG12,Worcestershire CC,174,16437,1.06
+TLG13,Warwickshire CC,190,22093,0.86
+TLG21,Telford and Wrekin,45,5514,0.82
+TLG22,Shropshire CC,362,7692,4.71
+TLG23,Stoke-on-Trent,6,7026,0.09
+TLG24,Staffordshire CC,248,22064,1.12
+TLG31,Birmingham,15,31966,0.05
+TLG32,Solihull,12,10478,0.11
+TLG33,Coventry,4,11094,0.04
+TLG36,Dudley,2,6366,0.03
+TLG37,Sandwell,0,7355,0
+TLG38,Walsall,4,5583,0.07
+TLG39,Wolverhampton,0,6233,0
+TLH11,Peterborough,51,7616,0.67
+TLH12,Cambridgeshire CC,491,24082,2.04
+TLH14,Suffolk CC,482,22091,2.18
+TLH15,Norwich and East Norfolk,69,11126,0.62
+TLH16,North and West Norfolk,241,5704,4.23
+TLH17,Breckland and South Norfolk,240,6643,3.61
+TLH21,Luton,1,5552,0.02
+TLH23,Hertfordshire CC,96,46835,0.2
+TLH24,Bedford,27,5411,0.5
+TLH25,Central Bedfordshire,92,7047,1.31
+TLH31,Southend-on-Sea,3,3492,0.09
+TLH32,Thurrock,7,5150,0.14
+TLH34,Essex Haven Gateway,127,12024,1.06
+TLH35,West Essex,104,9451,1.1
+TLH36,Heart of Essex,75,11106,0.68
+TLH37,Essex Thames Gateway,14,9921,0.14
+TLI31,Camden and City of London,29,127591,0.02
+TLI32,Westminster,118,78385,0.15
+TLI33,Kensington & Chelsea and Hammersmith & Fulham,9,22876,0.04
+TLI34,Wandsworth,2,8971,0.02
+TLI41,Hackney and Newham,1,19674,0.01
+TLI42,Tower Hamlets,0,40258,0
+TLI43,Haringey and Islington,2,26892,0.01
+TLI44,Lewisham and Southwark,16,26862,0.06
+TLI45,Lambeth,4,13848,0.03
+TLI51,Bexley and Greenwich,19,13326,0.14
+TLI52,Barking & Dagenham and Havering,7,10978,0.06
+TLI53,Redbridge and Waltham Forest,1,11130,0.01
+TLI54,Enfield,4,9151,0.04
+TLI61,Bromley,5,9044,0.06
+TLI62,Croydon,2,12332,0.02
+TLI63,"Merton, Kingston upon Thames and Sutton",5,17562,0.03
+TLI71,Barnet,2,11206,0.02
+TLI72,Brent,0,10671,0
+TLI73,Ealing,10,11171,0.09
+TLI74,Harrow and Hillingdon,10,19653,0.05
+TLI75,Hounslow and Richmond upon Thames,5,24943,0.02
+TLJ11,Berkshire,85,51189,0.17
+TLJ12,Milton Keynes,8,15963,0.05
+TLJ13,Buckinghamshire CC,61,18485,0.33
+TLJ14,Oxfordshire CC,282,26764,1.05
+TLJ21,Brighton and Hove,8,10308,0.08
+TLJ22,East Sussex CC,82,11704,0.7
+TLJ25,West Surrey,69,37787,0.18
+TLJ26,East Surrey,79,15450,0.51
+TLJ27,West Sussex (South West),118,12865,0.92
+TLJ28,West Sussex (North East),51,13589,0.38
+TLJ31,Portsmouth,6,7512,0.08
+TLJ32,Southampton,9,7648,0.12
+TLJ34,Isle of Wight,21,3098,0.68
+TLJ35,South Hampshire,30,13234,0.23
+TLJ36,Central Hampshire,223,19175,1.16
+TLJ37,North Hampshire,81,17940,0.45
+TLJ41,Medway,32,7201,0.44
+TLJ43,Kent Thames Gateway,93,10724,0.87
+TLJ44,East Kent,134,11953,1.12
+TLJ45,Mid Kent,106,9301,1.14
+TLJ46,West Kent,114,14309,0.8
+TLK11,"Bristol, City of",6,18385,0.03
+TLK12,"Bath and North East Somerset, North Somerset and South Gloucestershire",105,24439,0.43
+TLK13,Gloucestershire CC,250,21535,1.16
+TLK14,Swindon,23,10501,0.22
+TLK15,Wiltshire,199,14597,1.36
+TLK23,Somerset CC,325,14296,2.27
+TLK24,"Bournemouth, Christchurch and Poole",11,12151,0.09
+TLK25,Dorset,399,9407,4.24
+TLK30,Cornwall and Isles of Scilly,640,13416,4.77
+TLK41,Plymouth,15,6687,0.22
+TLK42,Torbay,13,2489,0.52
+TLK43,Devon CC,522,21358,2.44
+TLL11,Isle of Anglesey,58,1248,4.65
+TLL12,Gwynedd,86,2881,2.99
+TLL13,Conwy and Denbighshire,82,4456,1.84
+TLL14,South West Wales,307,9452,3.25
+TLL15,Central Valleys,27,6568,0.41
+TLL16,Gwent Valleys,23,6715,0.34
+TLL17,Bridgend and Neath Port Talbot,29,6841,0.42
+TLL18,Swansea,14,6403,0.22
+TLL21,Monmouthshire and Newport,37,7004,0.53
+TLL22,Cardiff and Vale of Glamorgan,17,16146,0.11
+TLL23,Flintshire and Wrexham,131,9296,1.41
+TLL24,Powys,159,2689,5.91
+TLM50,Aberdeen City and Aberdeenshire,1554,17917,8.67
+TLM61,"Caithness and Sutherland, and Ross and Cromarty",122,2464,4.95
+TLM62,"Inverness and Nairn, Moray, Badenoch and Strathspey",134,6230,2.15
+TLM63,"Lochaber, Skye and Lochalsh, Arran and Cumbrae, and Argyll and Bute",203,2730,7.44
+TLM64,Na h-Eileanan Siar,34,669,5.08
+TLM65,Orkney Islands,86,615,13.98
+TLM66,Shetland Islands,83,865,9.6
+TLM71,Angus and Dundee City,170,6575,2.59
+TLM72,Clackmannanshire and Fife,186,10514,1.77
+TLM73,East Lothian and Midlothian,87,4367,1.99
+TLM75,City of Edinburgh,71,27258,0.26
+TLM76,Falkirk,15,4892,0.31
+TLM77,"Perth and Kinross, and Stirling",248,7784,3.19
+TLM78,West Lothian,54,5761,0.94
+TLM81,"East Dunbartonshire, West Dunbartonshire, and Helensburgh and Lomond",16,4614,0.35
+TLM82,Glasgow City,6,25560,0.02
+TLM83,"Inverclyde, East Renfrewshire, and Renfrewshire",16,7811,0.2
+TLM84,North Lanarkshire,35,9370,0.37
+TLM91,Scottish Borders,214,2922,7.32
+TLM92,Dumfries and Galloway,309,4070,7.59
+TLM93,East Ayrshire and North Ayrshire mainland,79,5148,1.53
+TLM94,South Ayrshire,66,2786,2.37
+TLM95,South Lanarkshire,95,8240,1.15
+TLN06,Belfast,9,15555,0.06
+TLN07,"Armagh City, Banbridge and Craigavon",198,4977,3.98
+TLN08,"Newry, Mourne and Down",128,3843,3.33
+TLN09,Ards and North Down,58,2673,2.17
+TLN0A,Derry City and Strabane,55,3639,1.51
+TLN0B,Mid Ulster,225,4406,5.11
+TLN0C,Causeway Coast and Glens,121,2768,4.37
+TLN0D,Antrim and Newtownabbey,51,3916,1.3
+TLN0E,Lisburn and Castlereagh,48,4017,1.19
+TLN0F,Mid and East Antrim,86,3008,2.86
+TLN0G,Fermanagh and Omagh,152,2916,5.21
